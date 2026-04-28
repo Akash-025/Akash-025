@@ -17,6 +17,8 @@ var akash = struct {
     FunFact:      "I didn't learn HTML-CSS in my 4 years of undergrad life xD",
 }
 
+```
+
 🌐 Connect with Me:
 <p align="center"> <a href="https://www.facebook.com/md.akash.hasan.41345"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/md-akash-sheikh-534b81262/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:akash20cse025@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 💻 Tech Stack:
