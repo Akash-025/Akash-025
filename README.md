@@ -49,5 +49,28 @@ var akash = struct {
 </p>
 
 
-📊 GitHub Stats:
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Akash-025&label=Profile%20Views&color=0e75b6&style=flat" /> </p> <p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=Akash-025&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-025&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-025&layout=compact&theme=tokyonight&hide_border=true"/> </p> 
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Akash-025&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="165" src="https://streak-stats.demolab.com?user=Akash-025&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akash-025&theme=github_dark" alt="Most Used Languages"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akash-025&theme=github_dark" alt="Profile Details"/>
+
+</div>
